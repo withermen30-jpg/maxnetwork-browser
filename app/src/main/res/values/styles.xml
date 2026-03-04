@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- KOYU TEMA (varsayılan) -->
+    <style name="Theme.MaxBrowser" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryVariant">@color/accent_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSurface">@color/bg_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_secondary</item>
+        <item name="android:navigationBarColor">@color/bg_secondary</item>
+    </style>
+
+    <!-- AÇIK TEMA -->
+    <style name="Theme.MaxBrowser.Light" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryVariant">@color/accent_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/light_bg_secondary</item>
+        <item name="colorOnSurface">@color/light_text_primary</item>
+        <item name="android:windowBackground">@color/light_bg_primary</item>
+        <item name="android:statusBarColor">@color/light_bg_secondary</item>
+        <item name="android:navigationBarColor">@color/light_bg_secondary</item>
+    </style>
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaxNetwork</string>
+    <string name="hint_url">输入地址...</string>
+
+    <string name="nav_home">主页</string>
+    <string name="nav_tabs">标签页</string>
+    <string name="nav_history">历史</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_general">常规</string>
+    <string name="settings_homepage">🏠  主页</string>
+    <string name="settings_clear_history">🗑️  清除历史记录</string>
+    <string name="settings_donation">捐款</string>
+    <string name="settings_donate">💙  捐款</string>
+    <string name="settings_donors">🏆  捐款者</string>
+    <string name="settings_appearance">外观</string>
+    <string name="settings_theme">🎨  主题</string>
+    <string name="settings_fullscreen">⛶  全屏模式</string>
+    <string name="settings_language">🌐  语言</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_infrastructure">🖥️  基础设施</string>
+    <string name="about_slogan">您的网络，您的自由。</string>
+
+    <string name="welcome_title">欢迎使用\nMaxNetwork</string>
+    <string name="welcome_subtitle">选择您的语言以开始</string>
+    <string name="welcome_continue">继续</string>
+
+    <string name="history_title">历史记录与书签</string>
+    <string name="history_tab">🕐  历史</string>
+    <string name="bookmarks_tab">⭐  书签</string>
+    <string name="history_empty">暂无历史记录</string>
+    <string name="bookmarks_empty">暂无书签</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="this_week">本周</string>
+    <string name="this_month">本月</string>
+    <string name="earlier">更早</string>
+
+    <string name="infra_title">基础设施</string>
+    <string name="infra_subtitle">MaxNetwork 服务器网络</string>
+    <string name="infra_servers">服务器</string>
+    <string name="infra_ping">延迟</string>
+    <string name="infra_online">在线</string>
+    <string name="infra_offline">离线</string>
+    <string name="infra_checking">检查中...</string>
+    <string name="server_denizli">代尼兹利服务器</string>
+    <string name="server_denizli_desc">土耳其 / 代尼兹利</string>
+
+    <string name="donation_title">支持项目</string>
+    <string name="donation_msg">您可以通过捐款来支持和推进项目。\n\n我们靠您的捐款运营！每一笔贡献都用于让MaxNetwork变得更好。 🚀</string>
+    <string name="donation_btn">💙 捐款</string>
+    <string name="donation_later">稍后</string>
+    <string name="donation_never">不再显示</string>
+
+    <string name="error_title">连接失败</string>
+    <string name="error_blocked_title">已拦截</string>
+
+    <string name="theme_dark">🌙  深色</string>
+    <string name="theme_light">☀️  浅色</string>
+
+    <string name="downloads_title">下载</string>
+    <string name="downloads_empty">暂无下载</string>
+</resources>

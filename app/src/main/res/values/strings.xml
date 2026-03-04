@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaxNetwork</string>
+    <string name="hint_url">Enter address...</string>
+
+    <!-- NAV -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tabs">Tabs</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- SETTINGS -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_general">GENERAL</string>
+    <string name="settings_homepage">🏠  Homepage</string>
+    <string name="settings_clear_history">🗑️  Clear History</string>
+    <string name="settings_donation">DONATION</string>
+    <string name="settings_donate">💙  Donate</string>
+    <string name="settings_donors">🏆  Donors</string>
+    <string name="settings_appearance">APPEARANCE</string>
+    <string name="settings_theme">🎨  Theme</string>
+    <string name="settings_fullscreen">⛶  Fullscreen Mode</string>
+    <string name="settings_language">🌐  Language</string>
+    <string name="settings_about">ABOUT</string>
+    <string name="settings_infrastructure">🖥️  Infrastructure</string>
+    <string name="about_slogan">Your internet, your freedom.</string>
+
+    <!-- WELCOME -->
+    <string name="welcome_title">Welcome to\nMaxNetwork</string>
+    <string name="welcome_subtitle">Choose your language to get started</string>
+    <string name="welcome_continue">Continue</string>
+
+    <!-- HISTORY -->
+    <string name="history_title">History &amp; Bookmarks</string>
+    <string name="history_tab">🕐  History</string>
+    <string name="bookmarks_tab">⭐  Bookmarks</string>
+    <string name="history_empty">No history yet</string>
+    <string name="bookmarks_empty">No bookmarks yet</string>
+    <string name="today">TODAY</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="this_week">THIS WEEK</string>
+    <string name="this_month">THIS MONTH</string>
+    <string name="earlier">EARLIER</string>
+
+    <!-- INFRASTRUCTURE -->
+    <string name="infra_title">Infrastructure</string>
+    <string name="infra_subtitle">MaxNetwork Server Network</string>
+    <string name="infra_servers">SERVERS</string>
+    <string name="infra_ping">Ping</string>
+    <string name="infra_online">Online</string>
+    <string name="infra_offline">Offline</string>
+    <string name="infra_checking">Checking...</string>
+    <string name="server_denizli">Denizli Server</string>
+    <string name="server_denizli_desc">Turkey / Denizli</string>
+
+    <!-- DONATION -->
+    <string name="donation_title">Support the Project</string>
+    <string name="donation_msg">You can support and advance the project by donating.\n\nWe stand with your donations! Every contribution is used to make MaxNetwork better. 🚀</string>
+    <string name="donation_btn">💙 Donate</string>
+    <string name="donation_later">Later</string>
+    <string name="donation_never">Don\'t Show Again</string>
+
+    <!-- ERRORS -->
+    <string name="error_title">Connection Failed</string>
+    <string name="error_blocked_title">Blocked</string>
+
+    <!-- THEME -->
+    <string name="theme_dark">🌙  Dark</string>
+    <string name="theme_light">☀️  Light</string>
+
+    <!-- DOWNLOAD -->
+    <string name="downloads_title">Downloads</string>
+    <string name="downloads_empty">No downloads yet</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaxNetwork</string>
+    <string name="hint_url">Adres gir...</string>
+
+    <string name="nav_home">Ana</string>
+    <string name="nav_tabs">Sekmeler</string>
+    <string name="nav_history">Geçmiş</string>
+    <string name="nav_settings">Ayarlar</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_general">GENEL</string>
+    <string name="settings_homepage">🏠  Ana Sayfa</string>
+    <string name="settings_clear_history">🗑️  Geçmişi Temizle</string>
+    <string name="settings_donation">BAĞIŞ</string>
+    <string name="settings_donate">💙  Bağış Yap</string>
+    <string name="settings_donors">🏆  Bağış Yapanlar</string>
+    <string name="settings_appearance">GÖRÜNÜM</string>
+    <string name="settings_theme">🎨  Tema</string>
+    <string name="settings_fullscreen">⛶  Tam Ekran Modu</string>
+    <string name="settings_language">🌐  Dil</string>
+    <string name="settings_about">HAKKINDA</string>
+    <string name="settings_infrastructure">🖥️  Altyapı</string>
+    <string name="about_slogan">Kendi internetin, kendi özgürlüğün.</string>
+
+    <string name="welcome_title">MaxNetwork\'e\nHoş Geldiniz</string>
+    <string name="welcome_subtitle">Başlamak için dilinizi seçin</string>
+    <string name="welcome_continue">Devam Et</string>
+
+    <string name="history_title">Geçmiş ve Yer İmleri</string>
+    <string name="history_tab">🕐  Geçmiş</string>
+    <string name="bookmarks_tab">⭐  Yer İmleri</string>
+    <string name="history_empty">Henüz geçmiş yok</string>
+    <string name="bookmarks_empty">Henüz yer imi yok</string>
+    <string name="today">BUGÜN</string>
+    <string name="yesterday">DÜN</string>
+    <string name="this_week">BU HAFTA</string>
+    <string name="this_month">BU AY</string>
+    <string name="earlier">DAHA ÖNCE</string>
+
+    <string name="infra_title">Altyapı</string>
+    <string name="infra_subtitle">MaxNetwork Sunucu Ağı</string>
+    <string name="infra_servers">SUNUCULAR</string>
+    <string name="infra_ping">Ping</string>
+    <string name="infra_online">Çevrimiçi</string>
+    <string name="infra_offline">Çevrimdışı</string>
+    <string name="infra_checking">Kontrol ediliyor...</string>
+    <string name="server_denizli">Denizli Sunucusu</string>
+    <string name="server_denizli_desc">Türkiye / Denizli</string>
+
+    <string name="donation_title">Projeye Destek Ol</string>
+    <string name="donation_msg">Bağış yaparak projeye destek sağlayabilir ve ilerletebilirsiniz.\n\nSizin bağışlarınızla ayaktayız! Her katkı MaxNetwork\'ün daha iyi olması için kullanılır. 🚀</string>
+    <string name="donation_btn">💙 Bağış Yap</string>
+    <string name="donation_later">Sonra</string>
+    <string name="donation_never">Bir Daha Gösterme</string>
+
+    <string name="error_title">Bağlanamadı</string>
+    <string name="error_blocked_title">Engellendi</string>
+
+    <string name="theme_dark">🌙  Koyu</string>
+    <string name="theme_light">☀️  Açık</string>
+
+    <string name="downloads_title">İndirmeler</string>
+    <string name="downloads_empty">Henüz indirme yok</string>
+</resources>
